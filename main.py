@@ -208,7 +208,7 @@ def ch10():
 		st.error(e)
 
 def main():
-		ch6()
+		ex2()
 
 if __name__ == "__main__":
 	main()
