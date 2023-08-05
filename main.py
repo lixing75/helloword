@@ -1,4 +1,6 @@
 import streamlit as st
+import openai
+
 #Exercise 1: Functions
 
 def ex1():
