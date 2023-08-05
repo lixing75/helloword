@@ -171,7 +171,7 @@ def ch6():
 		st.session_state.messages.append({"role": "assistant", "content": response})
 
 def main():
-		ex1()
+		ch6()
 
 if __name__ == "__main__":
 	main()
